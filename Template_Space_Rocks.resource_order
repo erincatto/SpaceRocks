@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_rock_big","order":2,"path":"sprites/spr_rock_big/spr_rock_big.yy",},
+    {"name":"spr_rock_small","order":3,"path":"sprites/spr_rock_small/spr_rock_small.yy",},
+  ],
+}
